@@ -9,6 +9,6 @@
   "Source": {
     "Owner": "AWS",
     "SourceIdentifier": "INCOMING_SSH_DISABLED"
-  },
+  }
   
 }
