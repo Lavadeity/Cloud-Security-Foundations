@@ -10,5 +10,4 @@
     "Owner": "AWS",
     "SourceIdentifier": "INCOMING_SSH_DISABLED"
   },
-  "MaximumExecutionFrequency": "TwentyFour_Hours"
 }
